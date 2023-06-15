@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/todoListRecyclerView"
-        android:backgroundTint="@color/design_default_color_background"
+        android:backgroundTint="#C619D2"
         />
 
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:text="New Task"
         android:id="@+id/newTaskButton"
-        android:backgroundTint="#5097A4"
+        android:backgroundTint="#50A458"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:padding="5dp"
